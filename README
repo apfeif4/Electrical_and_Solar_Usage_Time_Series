@@ -1,0 +1,81 @@
+Here’s a refined, professional, and portfolio-ready version of your README with clear formatting, corrected spelling, and a more engaging structure:
+
+---
+
+# ⚡ Electrical & Solar Energy Usage – Time Series Forecasting
+
+## 📝 Overview
+
+This project builds **time series forecasting models** for solar and non-solar energy usage in **Mesa, Arizona** using **XGBoost**, **Elastic Net**, and **Facebook Prophet**.
+The goal is to help a solar company evaluate market potential by predicting future energy consumption trends and comparing solar vs. non-solar usage patterns.
+
+**Status:** ✅ Completed
+
+---
+
+## 🎯 Objective
+
+A solar company is considering establishing operations in Mesa, Arizona, due to rising electricity prices.
+They want data-driven insights to present to stakeholders and customers, focusing on:
+
+1. Is overall **energy usage** expected to increase?
+2. How is **solar-powered property usage** changing over time?
+3. Are there **seasonal patterns**, such as higher consumption in summer?
+4. Are there notable **winter spikes** in energy usage?
+5. Which model provides the **most accurate energy consumption forecast**?
+
+---
+
+## 🛠️ Methods & Tools
+
+**Methods**
+
+* XGBoost
+* Elastic Net
+* Facebook Prophet
+* Time Series Analysis
+* Data Visualization
+
+**Technologies**
+
+* Python (Jupyter Notebook)
+* Pandas, NumPy, Scikit-learn, Matplotlib
+
+---
+
+## 📂 Data Sources
+
+* Public datasets from the **City of Mesa** (included in this repository).
+
+---
+
+## 🚀 Project Workflow
+
+1. **Data Collection** – Download historical energy usage data from the City of Mesa website.
+2. **Data Cleaning & Preparation** – Handle missing values, ensure time-series formatting.
+3. **Exploratory Data Analysis (EDA)** – Identify consumption trends and seasonal patterns.
+4. **Modeling** – Train and evaluate XGBoost, Elastic Net, and Prophet models.
+5. **Model Comparison** – Assess accuracy and select the best forecasting model.
+6. **Reporting** – Present findings and recommendations with visualizations.
+
+---
+
+## 📈 Deliverables
+
+* **Jupyter Notebook** with complete analysis and modeling.
+* **Forecast visualizations** showing energy trends for solar and non-solar properties.
+* **Stakeholder report** with insights and recommendations.
+
+---
+
+## 🔮 Future Enhancements
+
+* Incorporate **weather data** for more precise seasonal forecasting.
+* Expand analysis to **other cities** for comparative insights.
+* Apply **deep learning models** (e.g., LSTMs) for advanced forecasting.
+
+---
+
+If you’d like, I can now turn this into a **GitHub-ready Markdown version with icons, clickable links, and improved visual hierarchy** so it’s perfect for your portfolio. That would make it much more engaging to potential employers or clients.
+
+Do you want me to prepare that version?
